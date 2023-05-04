@@ -1,0 +1,31 @@
+.header {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10rem;
+}
+
+.header > nav {
+  display: flex;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 4rem;
+}
+
+.header > nav > ul {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 3rem;
+  width: 100vw;
+}
+
+.img-header {
+  height: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
